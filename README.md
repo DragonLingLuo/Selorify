@@ -71,5 +71,5 @@ ___
 >> Bilibili：不是很想放过来  
   
 > 联系作者
->> 请直接用github联系我
+>> 请直接用github联系我  
 >> 不会用github的可以发邮件：dragonlingluo@vip.qq.com
