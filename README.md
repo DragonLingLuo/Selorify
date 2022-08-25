@@ -53,10 +53,11 @@ Pr、Ae、Au、Me）的覆盖常用全版本(CS6-2022)的快速修改启动画�
 
 同时也实现了良好的界面效果（虽然有点花里胡哨），实现了视差效果的界面、自动匹配win10主题颜色调整界面颜色，win10系统下的窗体背景亚克力效果（1809版本以下亚
 克力效果会出现严重性能问题），以及兼容win7（需要.Net4.5.2支持，否则会报错），缺点就是cpu占用有那么一点点高xwx。
-
-![image](https://github.com/DragonLingLuo/Selorify/blob/main/SampleImages/main.jpg)
-![image](https://github.com/DragonLingLuo/Selorify/blob/main/SampleImages/extendedMain.jpg)
-![image](https://github.com/DragonLingLuo/Selorify/blob/main/SampleImages/support.jpg)
+<p align="center">
+<img src="https://github.com/DragonLingLuo/Selorify/blob/main/SampleImages/main.jpg" height="400">
+<img src="https://github.com/DragonLingLuo/Selorify/blob/main/SampleImages/extendedMain.jpg" height="400">
+<img src="https://github.com/DragonLingLuo/Selorify/blob/main/SampleImages/support.jpg" height="400">
+</p>
 
 （其实剩着的Dw、Fw、Ch、Dn等以及像Vegas、CorelDRAW等技术上实现是没有难度的，只是因为作者懒，不过以后有时间应该会陆续更新支持）
 
