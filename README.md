@@ -67,7 +67,7 @@ ___
 ## 其他信息
 > 其他发布站点
 >> 知乎：<https://www.zhihu.com/question/31515371/answer/1745727468>  
->> 蓝奏云：<https://wws.lanzoux.com/b01zygbtc> 密码：b4v6  
+>> 蓝奏云：<https://wwm.lanzoub.com/b01zygbad> 密码:24ak  
 >> Bilibili：不是很想放过来  
   
 > 联系作者
