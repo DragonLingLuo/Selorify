@@ -3,21 +3,25 @@
 ~放在这个上面本来应该开源了，但是我代码写得太烂了，等再过几个版本我改好一点再把源码放上来吧~
 ___
 ## 更新日志  
-> 2022.8.26 v1.1  
-* 增加了上一版本支持的软件的2022版的支持，并对Ps、Ae的一些远古版本提供了支持（某些老版本的安装包真的太难找了QAQ，比如Ps 2.0的，如果有这个资源的小伙伴能不能提供一份给我qwq），目前支持的软件和版本范围：
+> 2022.11.2 v1.1.1  
+* 增加了上一版本支持的软件的2023版的支持，目前支持的软件和版本范围：
 
 |软件|版本范围|
 |:-|:-|
-|Adobe Photoshop|3.0-2022|
-|Adobe After Effects|3.1、CS3-2022|
-|Adobe Premiere Pro|CS6-2022|
-|Adobe Audition|CS6-2022|
+|Adobe Photoshop|3.0-2023|
+|Adobe After Effects|3.1、CS3-2023|
+|Adobe Premiere Pro|CS6-2023|
+|Adobe Audition|CS6-2023|
 |Adobe Flash Professional|CS4-CC 2014|
-|Adobe Animate|CC 2015-2022|
-|Adobe Photoshop Lightroom|4-Classic (2022)|
-|Adobe Illustrator|CS6-2022|
-|Adobe InDesign|CS6-2022|
-|Adobe Media Encoder|CC 2014-2022|
+|Adobe Animate|CC 2015-2023|
+|Adobe Photoshop Lightroom|4-Classic (2023)|
+|Adobe Illustrator|CS6-2023|
+|Adobe InDesign|CS6-2023|
+|Adobe Media Encoder|CC 2014-2023|
+
+
+> 2022.8.26 v1.1  
+* 增加了上一版本支持的软件的2022版的支持，并对Ps、Ae的一些远古版本提供了支持（某些老版本的安装包真的太难找了QAQ，比如Ps 2.0的，如果有这个资源的小伙伴能不能提供一份给我qwq）
 * 修复了一些提示语  
 * 一些细节的修改  
 * 改了数据存的结构，所以我以后更新大概也许可能应该不会那么慢了x  
