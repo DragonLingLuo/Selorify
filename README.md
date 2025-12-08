@@ -3,6 +3,22 @@
 ~放在这个上面本来应该开源了，但是我代码写得太烂了，等再过几个版本我改好一点再把源码放上来吧~
 ___
 ## 更新日志  
+> 2025.12.6 v1.1.2b    
+* 增加了上一版本支持的软件的已经发布的2026版的支持（对于未发布2026版的，已在2025版进行测试，并使用推定的2026版资源名称尝试提供支持），目前支持的软件和版本范围：
+
+|软件|版本范围|
+|:-|:-|
+|Adobe Photoshop|3.0-2026|
+|Adobe After Effects|3.1、CS3-2025|
+|Adobe Premiere Pro|CS6-2025|
+|Adobe Audition|CS6-2025|
+|Adobe Flash Professional|CS4-CC 2014|
+|Adobe Animate|CC 2015-2024|
+|Adobe Photoshop Lightroom|4-Classic (2026)|
+|Adobe Illustrator|CS6-2026|
+|Adobe InDesign|CS6-2026|
+|Adobe Media Encoder|CC 2014-2025|
+
 > 2022.11.2 v1.1.1  
 * 增加了上一版本支持的软件的2023版的支持，目前支持的软件和版本范围：
 
